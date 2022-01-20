@@ -8,7 +8,7 @@
 
 🎸 Outside the world of tech too, I enjoy pushing myself to develop new skills. My hobbies range from cooking, sketching, and watching Anime.
 
- 📫 How to reach me **ayush94129@gmail.com**
+ 📫 How to reach me :  **ayush94129@gmail.com**
 
 
 
