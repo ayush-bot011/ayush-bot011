@@ -2,13 +2,13 @@
 
 ## 🚀 About Me
 
-🎓 I am Ayush pandey, a Front End Web Developer , pursuing my Bachelor in Computer Science & Engineering and will graduate in mid-2023.
+🎓 I am **Ayush pandey**, a Front End Web Developer , pursuing my Bachelor in Computer Science & Engineering and will graduate in mid-2023.
 
 🌱 I’m currently learning about  Data Structures and Algorithms and preparing for big MNC's company and faang companies.
 
 🎸 Outside the world of tech too, I enjoy pushing myself to develop new skills. My hobbies range from cooking, sketching, and watching Anime.
 
-
+ 📫 How to reach me **ayush94129@gmail.com**
 
 
 
